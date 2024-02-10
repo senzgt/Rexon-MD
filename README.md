@@ -1,16 +1,16 @@
 ## BACA DULU BANG
 
-> **Warning**: Sc nya gk support termux. [`Klik disini untuk download sc yg support termux`](https://github.com/zeeoneofficial/Alphabot-Md/#For-Termux)
+> **Warning**: sc nya gk support termux.
 
 -----------------------------------------------------
 
 <p align="center">
-<img src="https://github.com/zeeoneofficial.png" alt="ALPHA BOT" width="150"/>
+<img src="https://github.com/senzgt.png" alt="Rexon Bot" width="150"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="ALPHABOT MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="REXON MULTI DEVICE" src="https://img.shields.io/badge/REXON MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
